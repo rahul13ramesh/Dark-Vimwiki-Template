@@ -18,7 +18,7 @@ let g:vimwiki_valid_html_tags = 'b,i,s,u,sub,sup,kbd,br,hr, pre, script'
 
 Code Snippets :
 ---------------
-It is possible to insert syntax highlited code. This template makes use of a themed version of [Google code Prettify](https://github.com/google/code-prettify). The following is a Vimwiki example for inserting a code snippet.
+It is possible to insert syntax highlighted code. This template makes use of a themed version of [Google code Prettify](https://github.com/google/code-prettify). The following is a Vimwiki example for inserting a code snippet.
 
 ```vimwiki
 = Snippet Example = 
